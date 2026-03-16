@@ -81,7 +81,7 @@ Some insights discovered during the analysis include:
 
 # Project Structure
 US-Births-Data-Analysis
-│
-├── US-Births-Data-Analysis.ipynb
-├── US_births_2000-2014_SSA.csv
-└── README.md
+|
+|---US-Births-Data-Analysis.ipynb
+|---US_births_2000-2014_SSA.csv
+|---README.md
